@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Assignment 2 Repo #2
+# Bootstrap-Portfolio
+Assignment 2 Repo 
