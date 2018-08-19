@@ -105,7 +105,7 @@ body {
     color: #54536F;
     text-align: center;
     background: #fff;
-    border-top: 2px solid #fff;
+    border-top: 25px solid #fff;
     height: 50px;
   }
   
@@ -229,6 +229,9 @@ body {
 
 @media screen and (max-width: 640px) {
   body {
+    #header {
+      position:fixed;
+      top:0;
     background-color: orangered;
   }
 }
